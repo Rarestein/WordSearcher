@@ -1,4 +1,7 @@
 # Word Searcher
+
+![preview](https://github.com/Rarestein/WordSearcher/assets/85163618/9c34e0aa-ed1d-4150-9ba4-8f6de002805a)
+
 ## What is it?
 Word searcher is a C# application that allows users to load a folder full of files and search for a word or a sequence of words. The program will display the files that the respective word is contained into, and it will also highlight the position of it.
 
